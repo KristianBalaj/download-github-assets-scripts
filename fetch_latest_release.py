@@ -1,3 +1,8 @@
+##################################################
+## Author: Kristian Balaj
+## License: MIT
+## Email: kiko.balaj@gmail.com
+##################################################
 import requests
 import json
 import sys
